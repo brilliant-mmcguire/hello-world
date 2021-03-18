@@ -1,8 +1,6 @@
-Where professional makers & doers come together to invest their time, energy, know-how and money to help others build a sustainable, prosperous and fair society.
-
-
 ## About Us 
 Bring great ideas to life by supporting individuals, charities, social enterprises, businesses and other organisations with practical and financial investment.
+Our professional makers & doers come together to invest their career capital to help others build a sustainable, prosperous and fair society.
 
 ## For Brilliant Brytes
 Brilliant Bytes are individuals, charities, social enterprises, mission-led businesses and organisations. They have brilliant ideas and projects that need support and investment to realise environmental or social impact that’s aligned with the UN’s SDGs. 
@@ -15,6 +13,7 @@ Alongside our work as investors in social and envornmental impact, we partner wi
 
 ## Portfolio 
 Bring great ideas to life by supporting individuals, charities, social enterprises, businesses and other organisations with practical and financial investment.
+
 
 
 
