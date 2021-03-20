@@ -3,7 +3,7 @@ author: Brillant-Matt
 email: mmcguire@brilliant.com
 description: Practical capital put to work by brilliant entrepeneurs.
 
-remote_theme: https://github.com/zerostaticthemes/jekyll-serif-theme
+remote_theme: zerostaticthemes/jekyll-serif-theme
 base_url: https://github.com/zerostaticthemes/jekyll-serif-theme
 
 permalink: pretty
