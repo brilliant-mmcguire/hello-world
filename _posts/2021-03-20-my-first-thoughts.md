@@ -1,0 +1,3 @@
+Why am I doing this? 
+
+More thoughts to come ... 
