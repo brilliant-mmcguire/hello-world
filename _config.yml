@@ -9,4 +9,5 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-remote_theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: https://github.com/zerostaticthemes/jekyll-serif-theme
+base_uri: https://github.com/zerostaticthemes/jekyll-serif-theme
