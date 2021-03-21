@@ -4,4 +4,4 @@ email: mmcguire@brilliant.com
 description: Practical capital put to work by brilliant entrepeneurs.
 
 remote_theme: brilliant-matt/jekyll-serif-theme
-#baseurl: /brilliant-matt/jekyll-serif-theme
+baseurl: /brilliant-matt/jekyll-serif-theme
