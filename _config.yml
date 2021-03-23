@@ -1,10 +1,4 @@
 title: This Bunch are Brilliant
-author: Brillant-Matt
-email: mmcguire@brilliant.com
+author: brilliant-mmcguire
+email: mmcguire@brilliantbunch.net
 description: Practical capital put to work by brilliant entrepeneurs.
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: brilliant-mmcguire/jekyll-serif-theme
-baseurl: /brilliant-mmcguire/jekyll-serif-theme
